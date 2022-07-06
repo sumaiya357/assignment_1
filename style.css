@@ -1,0 +1,355 @@
+body {
+
+    font-family: 'Poppins', sans-serif;
+}
+
+/*--section-1--*/
+.div1 {
+    margin-top: 0px;
+
+    background-image: url('images/donation6.jpg');
+
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+
+}
+
+.h1 {
+    text-align: center;
+    color: rgb(255, 255, 254);
+    font-size: 50px;
+    padding-top: 250px;
+}
+
+.p {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-left: 200px;
+    padding-right: 300px;
+    font-size: 21px;
+}
+
+.p2 {
+    text-align: center;
+    color: white;
+    padding-left: 250px;
+    padding-right: 300px;
+    padding-bottom: 20px;
+    font-size: 21px;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(red, red);
+    border-radius: 5px;
+
+    margin-left: 690px;
+    padding: 15px;
+}
+
+/*--section-2--*/
+.s2-div1 {
+    margin-top: 110px;
+    text-align: center;
+}
+
+.s2-h1 {
+    font-size: 50px;
+}
+
+.p3 {
+    color: grey;
+}
+
+.p4 {
+    color: grey;
+}
+
+/* sec3*/
+
+
+.sec-3 {
+    margin-top: 70px;
+}
+
+.flex {
+    display: flex;
+}
+
+.d1 {
+
+    font-size: 20px;
+    background-color: rgb(249, 240, 240);
+    margin-left: 300px;
+    width: 100px;
+    padding-left: 45px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.d2 {
+
+    font-size: 20px;
+    background-color: rgb(255, 207, 221);
+    margin-left: 30px;
+
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 3px solid tomato;
+    border-radius: 10px;
+
+}
+
+.pink {
+    color: tomato;
+}
+
+.d3 {
+    font-size: 20px;
+
+    background-color: rgb(249, 240, 240);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 30px;
+    border-radius: 10px;
+
+
+}
+
+.d4 {
+
+    font-size: 20px;
+    background-color: rgb(249, 240, 240);
+    margin-left: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+}
+
+.d5 {
+
+    font-size: 20px;
+    background-color: rgb(249, 240, 240);
+    margin-left: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+}
+
+
+/*sec 4>*/
+
+
+.input {
+    width: 60%;
+    margin-top: 80px;
+    margin-left: 300px;
+    text-align: center;
+    border: none;
+    border-bottom: 2px solid rgb(188, 174, 174);
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.btn {
+    margin-top: 50px;
+}
+
+
+/*section 5*/
+
+
+.donate-plan h1 {
+    text-align: center;
+    color: rgb(17, 17, 17);
+    font-size: 50px;
+    padding-top: 180px;
+}
+
+.donate-plan p {
+    text-align: center;
+    color: grey;
+}
+
+
+/*secton 6*/
+.sec-6 {
+    margin-top: 100px;
+}
+
+.food {
+    background-color: rgb(196, 215, 255);
+    height: 290px;
+    width: 350px;
+    margin-left: 180px;
+    padding-left: 20px;
+    padding-top: 60px;
+}
+
+.food p {
+    font-size: 13px;
+    padding-right: 40px;
+    color: grey;
+}
+
+.shelter {
+    background-color: rgb(252, 207, 207);
+    height: 290px;
+    width: 350px;
+    margin-left: 40px;
+    padding-left: 20px;
+    padding-top: 60px;
+}
+
+.shelter p {
+    font-size: 13px;
+    padding-right: 40px;
+    color: grey;
+}
+
+.edu {
+    background-color: rgb(255, 233, 196);
+    height: 290px;
+    width: 350px;
+    margin-left: 40px;
+    padding-left: 20px;
+    padding-top: 60px;
+}
+
+.edu img {
+    width: 50px;
+}
+
+.edu p {
+    font-size: 13px;
+    padding-right: 40px;
+    color: grey;
+}
+
+.sec-7 {
+    margin-top: 130px;
+    margin-left: 180px;
+}
+
+.width {
+    width: 50%
+}
+
+.sec-7 h1 {
+    font-size: 40px;
+
+}
+
+.sec-7 p {
+    color: grey;
+
+    font-size: 17px;
+    margin-bottom: 40px;
+}
+
+.sec-7 img {
+    height: 350px;
+    width: 520px;
+    border-radius: 10px;
+
+}
+
+.link-button3 {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(red, red);
+    border-radius: 5px;
+
+
+    padding: 15px;
+}
+
+
+/*section 8*/
+
+
+.updates {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.updates h1 {
+    font-size: 50px;
+}
+
+.updates p {
+    color: grey;
+}
+
+/*sec 9*/
+
+
+
+.sec-9 {
+    width: 800px;
+    height: 250px;
+    background-color: rgb(255, 224, 177);
+    margin-left: 380px;
+    margin-bottom: 140px;
+}
+
+.sec-9-div {
+    position: relative;
+    align-items: center;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.eml {
+
+    border: none;
+    background-color: rgba(110, 110, 154, 0.304);
+    padding: 15px;
+    width: 380px;
+    border-radius: 5px;
+
+}
+
+.link-button4 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: tomato;
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.foot {
+    background-color: black;
+    background-size: contain;
+    margin: 0%;
+
+    height: 190px;
+    text-align: center;
+    color: white;
+
+}
+
+.foot h1 {
+    font-family: 'Pacifico', cursive;
+    padding-top: 40px;
+    color: rgb(255, 80, 49)
+}
